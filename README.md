@@ -13,35 +13,22 @@ Integration with a MySQL database for data storage.
 
 Technologies Used:
 
-Node.js
-Express.js
-MySQL
-React
-React Router
-React Hook Form
-Material-UI
+Node.js,
+Express.js,
+MySQL,
+React,
+React Router,
+React Hook Form,
+Material-UI,
 Axios
 
-Installation
+Client
 
-Clone the repository to your local machine.
+To deploy run "npm i" and then "npm start".
 
-Install Node.js if you haven't already.
+Server
 
-Navigate to the project directory.
-
-Install dependencies by running the following command:
-
-npm i
-
-Set up the MySQL database and configure the database connection in the appropriate configuration file.
-
-Usage
-
-Start the server by running the following command:
-
-npm start
-Open your browser and visit http://localhost:3000 to access the application.
+To deploy run "npm i" and then "npm start".
 
 Use the application to add and manage meetings for different teams.
 
